@@ -1,6 +1,5 @@
 
-Weather AppWeather App
-Apr 2023 - May 2023Apr 2023 - May 2023
+
 Title: Weather App Development Project
 
 Description:
